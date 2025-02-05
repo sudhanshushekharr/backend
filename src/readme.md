@@ -1,20 +1,9 @@
 Backend Project
 This is the backend repository for the project. It contains the server-side code, including controllers, database models, routes, and utilities.
 
-Project Structure
 
-backend/
-├── src/
-│   ├── controllers/          # Controllers for handling business logic
-│   ├── db/                   # Database connection and configuration
-│   ├── middlewares/          # Custom middlewares for request processing
-│   ├── models/               # Database models and schemas
-│   ├── routes/               # API routes and endpoints
-│   ├── utils/                # Utility functions and helpers
-│   ├── .env.sample           # Sample environment variables file
-│   ├── app.js                # Express app configuration
-│   ├── constants.js          # Project constants and configurations
-│   └── index.js              # Entry point for the application
+
+
 
 Getting Started
 Prerequisites
